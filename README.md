@@ -1,2 +1,2 @@
 # Data-Cleaning-SQL
-Cleaned and Re-organized Database using SQL Server in order to better understand the Data Set.
+Within this project, our focus was on the Real Estate dataset relating to Nashville. Leveraging SQL Server, we engaged in the task of cleansing and structuring the dataset, enhancing its clarity for a more comprehensive understanding of the provided information. The overarching objective is to showcase the diverse range of queries employed to analyze and organize distinct aspects of the dataset. This effort not only aims to bring out meaningful insights but also serves as a testament to the versatility and efficiency of the applied SQL queries in managing and interpreting complex real estate data.
